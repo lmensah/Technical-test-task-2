@@ -1,0 +1,20 @@
+th{
+	font-size: 14px;
+	color:#000;
+	font-weight: 600;
+	font-family: verdana;
+
+
+}
+
+h4{
+
+	font-size: 16px;
+	color:#c49f47;
+	font-weight: 700;
+	font-family: arial;
+}
+tr, th{
+
+	width:10%;
+}
